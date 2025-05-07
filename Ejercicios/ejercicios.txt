@@ -1,0 +1,27 @@
+
+1.- Escriba un codigo para resolver la suma de dos numeros :
+
+2 escriba un codigo para resolver la resta de dos numeros :
+
+3.-Escriba un codigo para resolver la division de dos numeros
+
+4.-Escribe un codigo para resolver la multiplicacion de dos numeros.
+
+5.-determina el promedio de  las edades de 5 compañeros de tu salon
+
+6.-escribe un codigo para resolver la siguiente formula de ecuacion cuadratica:
+
+7.-escriba un programa que te permita hallar el area de un triangulo :
+
+8. -Escriba un programa que te permita hallar el área de un circulo.
+
+9. Escriba un programa que te permita hallar el volumen de un circulo.
+
+10.- Escriba un programa que te permita hallar el área de un paralelogramo.
+
+11.- Escriba un programa que te permita hallar el volumen de una esfera.
+
+12.-Escriba un programa que te permita determinar la cantidad de años,meses y dias  de una persona en razon a su fecha de nacimiento
+
+13.-Escriba un programa que te permita determinar en qué etapa de la vida está en razón a
+
